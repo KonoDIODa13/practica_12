@@ -1,0 +1,17 @@
+[
+    {
+        "matricula": "1793",
+        "marca": "Ford",
+        "modelo": "2000"
+    },
+    {
+        "matricula": "5678",
+        "marca": "Hyndai",
+        "modelo": "1000"
+    },
+    {
+        "matricula": "1234",
+        "marca": "volkswagen",
+        "modelo": "3000"
+    }
+]
